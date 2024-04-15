@@ -1,2 +1,5 @@
-jekyll new site/ --blank
-    jekyll serve --config _alternative_config.yml
+#title: Daniella's website
+#theme: jekyll-theme-slate
+
+github: daattali
+patreon: DeanAttali
