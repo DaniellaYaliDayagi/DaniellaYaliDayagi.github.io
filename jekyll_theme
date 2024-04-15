@@ -1,0 +1,2 @@
+jekyll new site/ --blank
+    jekyll serve --config _alternative_config.yml
