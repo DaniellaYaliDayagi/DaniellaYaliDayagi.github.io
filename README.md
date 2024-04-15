@@ -5,4 +5,4 @@ My name is Daniella, I'm a PhD student at the lab of Prof. Dikstein where I stud
 In my spare time among other things I like to travel to places such as this:
 
 
-![] (IMG_9041.jpeg) 
+![](IMG_9041.jpeg) 
